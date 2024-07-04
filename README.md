@@ -1,1 +1,2 @@
-# minimarket_sales_report
+# Minimarket Sales Report
+This project is aimed at minimarket owners who experienced difficulties determining which stock items must be filled. With the number of goods being sold, the minimarket owner sometimes makes mistakes in stock replenishment which can result in losses. So, minimarket owners wanted a report that shows the 15 best-selling and least-selling items to determine the supply of stock goods. Additionally, the minimarkets owner also wants to see sales summaries and monthly income for minimarket evaluation.
